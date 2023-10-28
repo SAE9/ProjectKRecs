@@ -8,7 +8,7 @@ A korean drama reccomendation responsive website designed using css and html.
 ## Usage
 *The website was created using html and css.
 
-*All pages consists consist Bootstrap CSS framework. 
+*All pages uses Bootstrap CSS framework. 
 ![see here](assets/homepage.png)
 
 *The Homepage and Contact page both consists of contact form.
