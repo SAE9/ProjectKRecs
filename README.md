@@ -18,3 +18,6 @@ A korean drama reccomendation responsive website designed using css and html.
 ![see here](assets/responsive.png)
 
 
+## Deployment
+Url: https://sae9.github.io/ProjectKRecs/ 
+
