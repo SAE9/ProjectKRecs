@@ -14,7 +14,7 @@ A korean drama reccomendation responsive website designed using css and html.
 *The Homepage and Contact page both consists of contact form.
 ![see here](assets/contactform.png)
 
-*It uses boostrap and is responsive for all devices from desktop to mobile view.
+*It uses boostrap framework and is responsive for all devices from desktop to mobile view.
 ![see here](assets/responsive.png)
 
 
